@@ -1,4 +1,8 @@
 /*Removes default on the body-tag*/
 body{
+  .background{
+    height: auto:
+    width: 500px
+  }
     margin:0;
 }
