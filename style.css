@@ -1,8 +1,13 @@
 /*Removes default on the body-tag*/
 body{
-  .background{
-    height: auto:
-    width: 500px
+  margin:1px;
+}
+  #Picture1{
+    height: auto;
+    width: 500px;
   }
-    margin:0;
+div{
+  height: 125px;
+  width: 125px;
+  background-color: green;
 }
